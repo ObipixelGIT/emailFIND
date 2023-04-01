@@ -31,8 +31,8 @@ sudo chmod +x emailFIND.py
 ```
 
 ## Usage
-```bash
-sudo python3 emailFIND.py                                                                                  ─╯
+```
+sudo python3 emailFIND.py
 
     ▒██▀░█▄▒▄█▒▄▀▄░█░█▒░▒█▀░█░█▄░█░█▀▄
     ░█▄▄░█▒▀▒█░█▀█░█▒█▄▄░█▀░█░█▒▀█▒█▄▀
